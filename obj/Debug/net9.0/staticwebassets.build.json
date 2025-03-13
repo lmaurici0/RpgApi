@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1pnsL2Cq4hUINs4IhGftArsDvxLpE4viipWJ/wMk5yw=",
+  "Source": "rpg-api",
+  "BasePath": "_content/rpg-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
